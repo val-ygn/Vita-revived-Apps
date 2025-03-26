@@ -1,1 +1,2 @@
-# YTPSVita
+# Vita Revived Apps
+Une recréation de la pluspart des applications psvita comme Facebook, Twitch, Youtube, etc...
